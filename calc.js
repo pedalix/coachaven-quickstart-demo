@@ -1,0 +1,8 @@
+// A tiny calculator, so the agent has code to read, test and change.
+export function add(a, b) {
+  return a + b;
+}
+
+export function divide(a, b) {
+  return a / b;
+}

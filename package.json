@@ -1,0 +1,5 @@
+{
+  "name": "quickstart-demo",
+  "type": "module",
+  "scripts": { "test": "node --test" }
+}
